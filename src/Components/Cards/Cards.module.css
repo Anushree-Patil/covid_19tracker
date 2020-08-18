@@ -1,0 +1,38 @@
+.container {  
+    margin: 5px;  
+    margin-bottom: 50px;
+    
+    }  
+      
+    .card {  
+        margin: 1% 6% !important; 
+      
+    
+    } 
+    .active{
+        border-bottom: 10px solid rgba(255,215,0,0.6);
+        margin-bottom: 10px;
+        
+        
+    } 
+      
+    .infected {  
+        border-bottom: 10px solid rgba(0, 0, 255, 0.5);  
+    }  
+      
+    .recovered {  
+        border-bottom: 10px solid rgba(0, 255, 0,0.5); 
+        padding-top: 30px;
+    }  
+      
+    .deaths {  
+        border-bottom: 10px solid rgba(255, 0, 0,0.5);  
+    }  
+    .btnGrid{  
+        margin-top: 10px !important;  
+    }  
+    @media only screen and (max-width: 770px) {  
+        .card{  
+          margin: 2% 0 !important;  
+        }  
+      } 
