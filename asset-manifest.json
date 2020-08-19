@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Covid-19-tracker/static/css/main.2d242ead.chunk.css",
-    "main.js": "/Covid-19-tracker/static/js/main.c1eb461d.chunk.js",
-    "main.js.map": "/Covid-19-tracker/static/js/main.c1eb461d.chunk.js.map",
-    "runtime-main.js": "/Covid-19-tracker/static/js/runtime-main.6b4be906.js",
-    "runtime-main.js.map": "/Covid-19-tracker/static/js/runtime-main.6b4be906.js.map",
-    "static/js/2.c4882fe5.chunk.js": "/Covid-19-tracker/static/js/2.c4882fe5.chunk.js",
-    "static/js/2.c4882fe5.chunk.js.map": "/Covid-19-tracker/static/js/2.c4882fe5.chunk.js.map",
-    "index.html": "/Covid-19-tracker/index.html",
-    "precache-manifest.493fcb22a086ce5dfbd2a9f31f2f8748.js": "/Covid-19-tracker/precache-manifest.493fcb22a086ce5dfbd2a9f31f2f8748.js",
-    "service-worker.js": "/Covid-19-tracker/service-worker.js",
-    "static/css/main.2d242ead.chunk.css.map": "/Covid-19-tracker/static/css/main.2d242ead.chunk.css.map",
-    "static/js/2.c4882fe5.chunk.js.LICENSE.txt": "/Covid-19-tracker/static/js/2.c4882fe5.chunk.js.LICENSE.txt",
-    "static/media/image.png": "/Covid-19-tracker/static/media/image.d7265326.png",
-    "static/media/logo.svg": "/Covid-19-tracker/static/media/logo.5d5d9eef.svg"
+    "main.css": "/covid-19tracker/static/css/main.2d242ead.chunk.css",
+    "main.js": "/covid-19tracker/static/js/main.2208fc77.chunk.js",
+    "main.js.map": "/covid-19tracker/static/js/main.2208fc77.chunk.js.map",
+    "runtime-main.js": "/covid-19tracker/static/js/runtime-main.dc6e0b49.js",
+    "runtime-main.js.map": "/covid-19tracker/static/js/runtime-main.dc6e0b49.js.map",
+    "static/js/2.0d20c4e2.chunk.js": "/covid-19tracker/static/js/2.0d20c4e2.chunk.js",
+    "static/js/2.0d20c4e2.chunk.js.map": "/covid-19tracker/static/js/2.0d20c4e2.chunk.js.map",
+    "index.html": "/covid-19tracker/index.html",
+    "precache-manifest.faf52e90ffed50350402e7ecbf3abaa2.js": "/covid-19tracker/precache-manifest.faf52e90ffed50350402e7ecbf3abaa2.js",
+    "service-worker.js": "/covid-19tracker/service-worker.js",
+    "static/css/main.2d242ead.chunk.css.map": "/covid-19tracker/static/css/main.2d242ead.chunk.css.map",
+    "static/js/2.0d20c4e2.chunk.js.LICENSE.txt": "/covid-19tracker/static/js/2.0d20c4e2.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/covid-19tracker/static/media/image.d7265326.png",
+    "static/media/logo.svg": "/covid-19tracker/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b4be906.js",
-    "static/js/2.c4882fe5.chunk.js",
+    "static/js/runtime-main.dc6e0b49.js",
+    "static/js/2.0d20c4e2.chunk.js",
     "static/css/main.2d242ead.chunk.css",
-    "static/js/main.c1eb461d.chunk.js"
+    "static/js/main.2208fc77.chunk.js"
   ]
 }
