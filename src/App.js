@@ -30,10 +30,10 @@ class App extends React.Component {
           <Routes />
         </div>
        
-        {/* <CovidForm/>
-           <CovidTracker/>   */}
+        <CovidForm/>
+           <CovidTracker/>  
 
-        {/* <Doughnut2 /> */}
+        <Doughnut2 />
       </div>
     </div>
 
